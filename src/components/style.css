@@ -1,0 +1,25 @@
+.head__app {
+    background-color: #212121;
+    text-align: center;
+}
+
+.head__wraper {
+    background-color: #323232;
+}
+
+h1 {
+    padding-top: 15%;
+    color: #ffffff;
+}
+
+.head__nav_app {
+    background-color: transparent !important;
+    color: #ffffff !important;
+    position: relative;
+    left: 15%;
+}
+
+.head__btn_about-me {
+    margin: 4% 1% 16% 1%;
+    background-color: #323232;
+} 

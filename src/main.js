@@ -3,6 +3,7 @@ import './plugins/vuetify'
 import App from './App.vue'
 import Vuetify from 'vuetify'
 import 'vuetify/dist/vuetify.min.css'
+import style from './components/style.css'
 
 Vue.use(Vuetify)
 
